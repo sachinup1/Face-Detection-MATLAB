@@ -30,7 +30,7 @@ It detects human faces in an image and draws bounding boxes with confidence scor
 Face-Detection-MATLAB/
 │── README.md
 │── face_detection_main.m
-│── Detector.mat
+│── helper_function.mat
 │── sample_images/
 │── results/
 ```
