@@ -1,6 +1,6 @@
 # Face Detection using MATLAB
 
-## 📌 Overvie
+## 📌 Overview
 
 This project demonstrates a basic face detection system using MATLAB.
 It detects human faces in an image and draws bounding boxes with confidence scores.
